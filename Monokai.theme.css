@@ -1,0 +1,35 @@
+/**
+* @name Monokai
+* @version Auto Update
+* @description The Monokai coding theme for Discord.
+* @author 0xVichy
+* @invite terms-of-service
+* @Source https://github.com/its-vichy/MonokaiDiscordTheme
+* @website https://vu.fr/rca-discord
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/nocturnal.css");
+@import url('https://fonts.googleapis.com/css2?family=Nunito');
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--mainColor: #FC9867;
+--backgroundColor01: #3F3B40FF;
+--backgroundColor02: #2D2A2E;
+--gradientColor01: #3C383EFF;
+--gradientColor02: #3C383EFF;
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 1px;
+--rs-large-spacing: 2px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #A9DC76;
+--rs-idle-color: #FFD866;
+--rs-dnd-color: #FF6188;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #AB9DF2;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+--customFont: 'Nunito';
+}
